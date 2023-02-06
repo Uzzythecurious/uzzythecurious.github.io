@@ -157,6 +157,13 @@ section{
   .social-container{
     overflow:scroll;
   }
+  
+  #profile-link:hover{
+    color: var(--accent-color);
+    font-size: 1.1rem;
+    border: 2px solid var(--accent-color)
+
+  }
 
 } 
 
